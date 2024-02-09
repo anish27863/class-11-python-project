@@ -1,4 +1,5 @@
-#python program to calculate grade of a student based on average of 5 sub marks
+#python program to calculate grade of a student based on average of 5 subject marks
+
 a=int(input("Enter marks obtained in Physics "))
 b=int(input("Enter marks obtained in Chemistry "))
 c=int(input("Enter marks obtained in Maths "))

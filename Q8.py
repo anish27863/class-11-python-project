@@ -1,3 +1,5 @@
+#Python program to find min, max, sum of a tuple and then display it in sorted order
+
 t=(10,78,95,76,18,47,14,77,85,67)
 
 print("Maximum value= ",max(t))

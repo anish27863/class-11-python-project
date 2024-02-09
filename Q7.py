@@ -1,4 +1,5 @@
 #python program to input 10 numbers and sort them into two lists odd and even respectively
+
 l,o,e=[],[],[]
 print("Enter 10 numbers")
 for i in range(0,10):

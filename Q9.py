@@ -1,4 +1,5 @@
 #python program to convert a decimal number to binary
+
 a=int(input("Enter a number"))
 s=""
 while(a!=0):

@@ -1,4 +1,5 @@
 #python program to input names of employees and salaries and store them in a dictionary
+
 n=int(input("Enter the number of employees whose data is to entered"))
 employee=dict()
 while(n!=0):
