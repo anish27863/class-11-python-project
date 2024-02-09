@@ -3,7 +3,7 @@ ns=""
 for i in s:
     if i not in ns:
         ns=ns+i
-#print(ns)
+        
 for j in ns:
     c=0
     for k in s:
